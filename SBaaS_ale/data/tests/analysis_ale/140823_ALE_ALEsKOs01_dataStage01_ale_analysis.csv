@@ -1,0 +1,5 @@
+analysis_id,experiment_id,sample_name_abbreviation,analysis_type,used_,comment_
+ALEsKOs01_OxicEvo04tpiA,ALEsKOs01,OxicEvo04tpiAEvo01EcoliGlc,time-course,TRUE,
+ALEsKOs01_OxicEvo04tpiA,ALEsKOs01,OxicEvo04tpiAEvo02EcoliGlc,time-course,TRUE,
+ALEsKOs01_OxicEvo04tpiA,ALEsKOs01,OxicEvo04tpiAEvo03EcoliGlc,time-course,TRUE,
+ALEsKOs01_OxicEvo04tpiA,ALEsKOs01,OxicEvo04tpiAEvo04EcoliGlc,time-course,TRUE,
