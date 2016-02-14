@@ -14,8 +14,8 @@ session = pg_orm.get_session();
 engine = pg_orm.get_engine();
 
 # your app...
-sys.path.append(pg_settings.datadir_settings['drive']+'/SBaaS_LIMS')
-sys.path.append(pg_settings.datadir_settings['drive']+'/SBaaS_ale')
+sys.path.append(pg_settings.datadir_settings['github']+'/SBaaS_LIMS')
+sys.path.append(pg_settings.datadir_settings['github']+'/SBaaS_ale')
 sys.path.append(pg_settings.datadir_settings['github']+'/io_utilities')
 sys.path.append(pg_settings.datadir_settings['github']+'/calculate_utilities')
 
